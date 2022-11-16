@@ -1,0 +1,3 @@
+npx create-expo-app yourProject
+cd yourProject
+npm start

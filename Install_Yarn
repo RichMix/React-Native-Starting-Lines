@@ -1,0 +1,3 @@
+yarn create expo-app FirstProject
+cd FirstProject
+yarn start
